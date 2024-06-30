@@ -8,6 +8,5 @@ I am actively updating this script.
 Updates may take long but are well made.
 
 Script:
-`lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ryo-yamada/The-W-script/main/raw%20obfuscated'))()
-`
+
+`loadstring(game:HttpGet('https://raw.githubusercontent.com/ryo-yamada/The-W-script/main/raw%20obfuscated'))()`
